@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" height="300"/>
 </div>
 
 <br>
@@ -122,7 +122,7 @@ const paramShukla: Developer = {
 *May 2025 – June 2025* | **Team Project** 👥
 
 <div align="center">
-  <img src="https://via.placeholder.com/700x350/667eea/ffffff?text=MoneyOverflow+Financial+Platform" alt="MoneyOverflow Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #667eea;"/>
+  <img src="https://asset.cloudinary.com/dczj4eyk7/2a3acfae7d420995f652e0ac87024855" alt="MoneyOverflow Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #667eea;"/>
   
   <br><br>
   
@@ -160,8 +160,10 @@ A comprehensive financial literacy platform designed to empower users with essen
 - **AI-Powered** personalized Assistance
 
 **👥 Team Contributors**
-- **[Monil Mehta](https://github.com/MonilMehta)**
 - **[Param Shukla](https://github.com/ParamShukla007)**
+- **[Monil Mehta](https://github.com/MonilMehta)** 
+- **[Milan Haria](https://github.com/milanh34)** 
+- **[Mitansh Kanani](https://github.com/mitanshkanani)** 
 
 </td>
 <td width="40%">
@@ -196,12 +198,10 @@ Deployment: {
 ```
 
 **🤝 My Contributions**
-- Backend API development with Node.js & Express
+- Backend API architecture & development
 - Database schema design & optimization
-- AI integration with Gemini API
-- Authentication & authorization system
-- Financial calculators logic implementation
-- Deployment & DevOps setup
+- Enhancing UI Design & Mobile Resposiveness
+- Backend Deployment
 
 </td>
 </tr>
@@ -252,8 +252,10 @@ A comprehensive NGO management platform that streamlines operations, enhances vo
 - **PDF** Report Generation
 
 **👥 Team Contributors**
-- **[Monil Mehta](https://github.com/MonilMehta)**
 - **[Param Shukla](https://github.com/ParamShukla007)**
+- **[Monil Mehta](https://github.com/MonilMehta)** 
+- **[Milan Haria](https://github.com/milanh34)** 
+- **[Mitansh Kanani](https://github.com/mitanshkanani)** 
   
 </td>
 <td width="40%">
@@ -262,7 +264,7 @@ A comprehensive NGO management platform that streamlines operations, enhances vo
 ```javascript
 Frontend: {
   framework: "React.js",
-  styling: "CSS3 + Responsive Design",
+  styling: "Tailwind CSS + Responsive Design",
   components: "Custom Components",
   routing: "React Router"
 }
@@ -290,11 +292,10 @@ Deployment: {
 
 **🤝 My Contributions**
 - Backend API architecture & development
-- Database design & MongoDB optimization
+- Database schema design & optimization
 - Twilio SMS integration for notifications
-- PDF report generation system
-- Admin dashboard backend logic
-- Authentication & role-based access control
+- Enhancing UI Design & Mobile Resposiveness
+- Backend Deployment
 
 </td>
 </tr>
@@ -364,7 +365,7 @@ Deployment: {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" height="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" height="200">
   <br>
   
   <h3>💭 Developer Quote</h3>
@@ -377,10 +378,6 @@ Deployment: {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" height="300"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
