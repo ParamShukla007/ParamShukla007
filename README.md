@@ -3,11 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Mastering+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+MongoDB;Turning+Ideas+Into+Digital+Reality!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" height="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Mastering+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Turning+Ideas+Into+Digital+Reality!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -56,7 +52,7 @@ const paramShukla: Developer = {
 </td>
 <td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" alt="Coding GIF">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="Coding GIF">
 
 ### 🎯 Quick Facts
 
@@ -122,7 +118,6 @@ const paramShukla: Developer = {
 *May 2025 – June 2025* | **Team Project** 👥
 
 <div align="center">
-  <img src="https://asset.cloudinary.com/dczj4eyk7/2a3acfae7d420995f652e0ac87024855" alt="MoneyOverflow Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #667eea;"/>
   
   <br><br>
   
@@ -213,8 +208,7 @@ Deployment: {
 *September 2024 – October 2024* | **Team Project** 👥
 
 <div align="center">
-  <img src="https://via.placeholder.com/700x350/f093fb/ffffff?text=NurtureNest+Management+Portal" alt="NurtureNest Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #f093fb;"/>
-  
+
   <br><br>
   
   <a href="https://nfc-3-0-hack-panthers.vercel.app/" target="_blank">
@@ -324,15 +318,6 @@ Deployment: {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParamShukla007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=📈%20Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7a70893.gif" width="400" height="300"/>
@@ -371,14 +356,12 @@ Deployment: {
   <h3>💭 Developer Quote</h3>
   <p><em>"Code is not just about solving problems; it's about creating solutions that make a difference."</em></p>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote"/>
+  </em></p>
+  <p><em>"Learning to write programs stretches your mind and helps you think better." – Bill Gates</em></p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" height="300"/>
-</div>
 
 <div align="center">
   <p>
