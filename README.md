@@ -55,8 +55,7 @@ const paramShukla: Developer = {
     "Problem Solving with DSA",
     "Building production-level applications",
     "Learning different skills"
-  ],
-  
+  ]
 };
 ```
 
@@ -68,17 +67,14 @@ const paramShukla: Developer = {
 ### 🎯 Quick Facts
 
 - 🔭 Currently building **scalable web applications**
-- 🌱 Learning **System Design** and **Microservices**
 - 👯 Open to collaborate on **innovative projects**
-- 💬 Ask me about **Java, Spring Boot, React, DSA**
-- 📫 Reach me at **param.shukla.dev@gmail.com**
-- ⚡ Fun fact: **I solve bugs faster than I create them!** 🐛
+- 💬 Ask me about **Java, Spring Boot, Node, DSA**
+- 📫 Reach me at **shuklaparam09022004@gmail.com**
 
 ### 📊 Coding Stats
-- **500+** DSA Problems Solved
-- **50+** Projects Completed
+- **200+** DSA Problems Solved
+- **10+** Projects Completed
 - **2+** Years of Development Experience
-- **10+** Technologies Mastered
 
 </td>
 </tr>
