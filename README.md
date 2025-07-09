@@ -79,7 +79,7 @@ const paramShukla: Developer = {
 - 🌱 Learning **System Design** and **Microservices**
 - 👯 Open to collaborate on **innovative projects**
 - 💬 Ask me about **Java, Spring Boot, React, DSA**
-- 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 Reach me at **param.shukla.dev@gmail.com**
 - ⚡ Fun fact: **I solve bugs faster than I create them!** 🐛
 
 ### 📊 Coding Stats
@@ -100,14 +100,14 @@ const paramShukla: Developer = {
 
 ### 🚀 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🎨 Frontend Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -121,21 +121,16 @@ const paramShukla: Developer = {
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,maven" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 </div>
@@ -147,6 +142,8 @@ const paramShukla: Developer = {
 <div align="center">
 
 ### 💰 MoneyOverflow - Financial Literacy Platform
+*May 2025 – June 2025*
+
 <div align="center">
   <img src="https://via.placeholder.com/700x350/667eea/ffffff?text=MoneyOverflow+Financial+Dashboard" alt="MoneyOverflow Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #667eea;"/>
   
@@ -157,9 +154,6 @@ const paramShukla: Developer = {
   </a>
   <a href="https://github.com/ParamShukla007/MoneyOverflow" target="_blank">
     <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📝_Case_Study-4CAF50?style=for-the-badge&logo=notion&logoColor=white" alt="Case Study"/>
   </a>
   
   <br><br>
@@ -173,18 +167,20 @@ const paramShukla: Developer = {
 A comprehensive financial literacy platform designed to empower users with essential money management skills through interactive tools, educational content, and personalized financial insights.
 
 **✨ Key Features**
-- 📊 **Interactive Budget Dashboard** - Real-time expense tracking
-- 📈 **Investment Portfolio Tracker** - Monitor and analyze investments
-- 🎓 **Educational Modules** - Learn financial concepts
-- 💳 **Smart Expense Categorization** - AI-powered transaction sorting
-- 🔔 **Intelligent Notifications** - Alerts for spending patterns
-- 📱 **Responsive Design** - Works on all devices
-- 🔐 **Secure Authentication** - JWT-based user security
+- 📚 **10+ Interactive Learning Modules** - Comprehensive financial education
+- 📰 **Financial Blogs & News Updates** - Stay informed on market trends
+- 🧮 **5+ Financial Calculators** - EMI, SIP, Tax, and Investment calculators
+- 💬 **Community Q&A System** - Peer-to-peer financial discussions
+- 🎮 **Gamified Quizzes** - Engaging learning through gamification
+- 📈 **Investment Simulations** - Risk-free practice trading
+- 🤖 **AI-Powered Assistance** - Gemini API for personalized financial guidance
+- 📱 **Mobile-Optimized Design** - Seamless experience across devices
 
 **🏆 Achievements**
-- Used by **200+** active users
-- **4.8/5** user satisfaction rating
-- Featured in college tech showcase
+- **10+** Interactive modules developed
+- **5+** Financial calculators implemented
+- **Mobile-first** responsive design
+- **AI-powered** personalized assistance
 
 </td>
 <td width="40%">
@@ -193,30 +189,35 @@ A comprehensive financial literacy platform designed to empower users with essen
 ```javascript
 Frontend: {
   framework: "React.js",
-  styling: "CSS3 + Bootstrap",
-  stateManagement: "Redux",
-  charts: "Chart.js"
+  styling: "CSS3 + Responsive Design",
+  stateManagement: "React Hooks",
+  calculations: "JavaScript"
 }
 
 Backend: {
   runtime: "Node.js",
   framework: "Express.js",
   database: "MongoDB",
-  authentication: "JWT"
+  ODM: "Mongoose"
+}
+
+AI Integration: {
+  aiService: "Gemini API",
+  features: "Personalized Queries",
+  support: "Financial Guidance"
 }
 
 Deployment: {
-  frontend: "Vercel",
-  backend: "Heroku",
+  platform: "Vercel",
   database: "MongoDB Atlas"
 }
 ```
 
 **📈 Performance Metrics**
-- **99.9%** Uptime
-- **< 2s** Page Load Time
-- **Mobile-First** Design
-- **SEO Optimized**
+- **100%** Mobile Responsive
+- **10+** Learning Modules
+- **5+** Financial Tools
+- **AI-Powered** Assistance
 
 </td>
 </tr>
@@ -225,6 +226,8 @@ Deployment: {
 ---
 
 ### 🏠 NurtureNest - NGO Management System
+*September 2024 – October 2024*
+
 <div align="center">
   <img src="https://via.placeholder.com/700x350/f093fb/ffffff?text=NurtureNest+Management+Portal" alt="NurtureNest Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #f093fb;"/>
   
@@ -236,9 +239,6 @@ Deployment: {
   <a href="https://github.com/ParamShukla007/NurtureNest" target="_blank">
     <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🏆_Award_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Award Winner"/>
-  </a>
   
   <br><br>
 </div>
@@ -248,21 +248,23 @@ Deployment: {
 <td width="60%">
 
 **🎯 Project Overview**
-A comprehensive NGO management platform that streamlines operations, enhances volunteer coordination, and maximizes social impact through data-driven insights and efficient resource management.
+A comprehensive NGO management platform that streamlines operations, enhances volunteer coordination, and maximizes social impact through efficient resource management and communication systems.
 
 **✨ Key Features**
-- 👥 **Volunteer Management System** - Recruit, train, and manage volunteers
-- 💰 **Donation Tracking & Analytics** - Monitor funding and expenses
-- 📋 **Project Management Dashboard** - Plan and track initiatives
-- 📊 **Impact Measurement Tools** - Quantify social impact
-- 🔐 **Multi-role Authentication** - Different access levels
-- 📱 **Mobile-Responsive Interface** - Access anywhere
-- 📈 **Real-time Analytics** - Data-driven decision making
+- 🎯 **Robust Admin Portal** - Complete management of events, projects, staff, and volunteers
+- 📊 **Donation Analytics Dashboard** - Track and analyze donation patterns
+- 📝 **Event & Project Management** - Create, view, and manage organizational activities
+- 📄 **PDF Report Generation** - Downloadable reports for events and documentation
+- 🌐 **Responsive User Interface** - Browse events, join activities, and make donations
+- 💳 **Secure Payment Integration** - Razorpay for safe donation processing
+- 📱 **SMS Notification System** - Twilio API for automated registration confirmations
+- 📢 **Announcement System** - Keep users informed with important updates
 
 **🏆 Recognition**
-- **Winner** - College Hackathon 2024
-- **500+** NGOs expressed interest
-- **Featured** in tech innovation showcase
+- **Team Project** with successful deployment
+- **Mobile-responsive** design implementation
+- **Secure payment** processing integration
+- **Real-time notifications** for better engagement
 
 </td>
 <td width="40%">
@@ -271,8 +273,8 @@ A comprehensive NGO management platform that streamlines operations, enhances vo
 ```javascript
 Frontend: {
   framework: "React.js",
-  styling: "Tailwind CSS",
-  components: "Material-UI",
+  styling: "CSS3 + Responsive Design",
+  components: "Custom Components",
   routing: "React Router"
 }
 
@@ -280,22 +282,28 @@ Backend: {
   runtime: "Node.js",
   framework: "Express.js",
   database: "MongoDB",
-  authentication: "Passport.js"
+  ODM: "Mongoose"
 }
 
-Features: {
-  realtime: "Socket.io",
-  analytics: "Chart.js",
-  payments: "Stripe API",
-  notifications: "NodeMailer"
+Integrations: {
+  payments: "Razorpay API",
+  sms: "Twilio API",
+  reports: "PDF Generation",
+  notifications: "Real-time Updates"
+}
+
+Deployment: {
+  platform: "Vercel",
+  database: "MongoDB Atlas"
 }
 ```
 
 **📊 Impact Metrics**
-- **10+** NGOs Onboarded
-- **1000+** Volunteers Managed
-- **₹50,000+** Donations Tracked
-- **95%** User Satisfaction
+- **Complete** Admin Portal
+- **Secure** Payment Processing
+- **Real-time** SMS Notifications
+- **Mobile-First** Design
+- **PDF** Report Generation
 
 </td>
 </tr>
@@ -303,6 +311,7 @@ Features: {
 
 ---
 
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Analytics & Performance
 
@@ -312,8 +321,7 @@ Features: {
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParamShukla007&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ParamShukla007&theme=react&border_radius=10&hide_border=true" alt="Wakatime Stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ParamShukla007&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -326,47 +334,57 @@ Features: {
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[🎯 2024 Learning Goals] --> B[System Design Mastery]
-    A --> C[Advanced Spring Boot]
-    A --> D[Cloud Architecture]
-    A --> E[Open Source Leadership]
-    A --> F[Competitive Programming]
-    
-    B --> G[Microservices Patterns]
-    B --> H[Database Scaling]
-    B --> I[Caching Strategies]
-    
-    C --> J[Spring Security Advanced]
-    C --> K[Spring Cloud]
-    C --> L[Performance Optimization]
-    
-    D --> M[AWS Solutions Architect]
-    D --> N[Docker & Kubernetes]
-    D --> O[CI/CD Pipelines]
-    
-    E --> P[Contribute to 10+ Projects]
-    E --> Q[Mentor Junior Developers]
-    E --> R[Write Technical Articles]
-    
-    F --> S[1000+ LeetCode Problems]
-    F --> T[Contest Participation]
-    F --> U[Algorithm Optimization]
-    
-    style A fill:#ff6b6b,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#45b7d1,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#f093fb,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#feca57,stroke:#fff,stroke-width:2px,color:#000
-    style F fill:#ff9ff3,stroke:#fff,stroke-width:2px,color:#fff
-```
+### 🎯 Current Focus Areas
 
+<table>
+<tr>
+<td width="50%">
+
+**📚 Technical Skills**
+- System Design & Architecture
+- Advanced Spring Boot Concepts
+- Microservices Patterns
+- Database Optimization
+- Cloud Technologies (AWS)
+
+**🏆 Goals for 2025**
+- Master System Design
+- Contribute to Open Source
+- Build Production Applications
+- Achieve 1000+ LeetCode Problems
+
+</td>
+<td width="50%">
+
+**🚀 Learning Path**
+- Docker & Containerization
+- Kubernetes Orchestration
+- CI/CD Pipeline Implementation
+- Performance Optimization
+- Security Best Practices
+
+**💡 Innovation Areas**
+- AI/ML Integration
+- Real-time Applications
+- Scalable Architecture
+- Modern Development Practices
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/ParamShukla007/ParamShukla007/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
