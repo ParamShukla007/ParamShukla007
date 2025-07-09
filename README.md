@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" height="280"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" height="300"/>
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@ const paramShukla: Developer = {
 </td>
 <td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2617-4274-9d20-c2d4e5266be9.gif" width="100%" alt="Coding GIF">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" alt="Coding GIF">
 
 ### 🎯 Quick Facts
 
@@ -125,7 +125,7 @@ const paramShukla: Developer = {
 <div align="center">
 
 ### 💰 MoneyOverflow - Financial Literacy Platform
-*May 2025 – June 2025*
+*May 2025 – June 2025* | **Team Project** 👥
 
 <div align="center">
   <img src="https://via.placeholder.com/700x350/667eea/ffffff?text=MoneyOverflow+Financial+Dashboard" alt="MoneyOverflow Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #667eea;"/>
@@ -165,6 +165,12 @@ A comprehensive financial literacy platform designed to empower users with essen
 - **5+** Financial Tools
 - **AI-Powered** personalized Assistance
 
+**👥 Team Contributors**
+- **[Monil Mehta](https://github.com/MonilMehta)** - Team Lead & Frontend Developer
+- **[Param Shukla](https://github.com/ParamShukla007)** - Full Stack Developer & Backend Lead
+- **[Contributor 3](https://github.com/username3)** - UI/UX Designer & Frontend
+- **[Contributor 4](https://github.com/username4)** - Database & API Integration
+
 </td>
 <td width="40%">
 
@@ -197,6 +203,14 @@ Deployment: {
 }
 ```
 
+**🤝 My Contributions**
+- Backend API development with Node.js & Express
+- Database schema design & optimization
+- AI integration with Gemini API
+- Authentication & authorization system
+- Financial calculators logic implementation
+- Deployment & DevOps setup
+
 </td>
 </tr>
 </table>
@@ -204,7 +218,7 @@ Deployment: {
 ---
 
 ### 🏠 NurtureNest - NGO Management System
-*September 2024 – October 2024*
+*September 2024 – October 2024* | **Team Project** 👥
 
 <div align="center">
   <img src="https://via.placeholder.com/700x350/f093fb/ffffff?text=NurtureNest+Management+Portal" alt="NurtureNest Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #f093fb;"/>
@@ -244,6 +258,12 @@ A comprehensive NGO management platform that streamlines operations, enhances vo
 - **Real-time** Notifications
 - **Mobile-First** Design
 - **PDF** Report Generation
+
+**👥 Team Contributors**
+- **[Monil Mehta](https://github.com/MonilMehta)** - Team Lead & Frontend Architect
+- **[Param Shukla](https://github.com/ParamShukla007)** - Backend Developer & Database Lead
+- **[Contributor 2](https://github.com/username2)** - Frontend Developer & UI/UX
+- **[Contributor 3](https://github.com/username3)** - Payment Integration & API Development
   
 </td>
 <td width="40%">
@@ -278,12 +298,24 @@ Deployment: {
 }
 ```
 
+**🤝 My Contributions**
+- Backend API architecture & development
+- Database design & MongoDB optimization
+- Twilio SMS integration for notifications
+- PDF report generation system
+- Admin dashboard backend logic
+- Authentication & role-based access control
+
 </td>
 </tr>
 </table>
 
 ---
 
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="300"/>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Analytics & Performance
@@ -309,6 +341,10 @@ Deployment: {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7a70893.gif" width="400" height="300"/>
 </div>
 
 ---
@@ -338,7 +374,7 @@ Deployment: {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" height="200">
   <br>
   
   <h3>💭 Developer Quote</h3>
@@ -350,7 +386,11 @@ Deployment: {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" height="300"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11&height=120&section=footer&animation=twinkling"/>
 </div>
 
 <div align="center">
