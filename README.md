@@ -159,29 +159,7 @@ const paramShukla = {
 
 ---
 
-### 🔧 TaskFlow - Project Management Tool
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/4facfe/ffffff?text=TaskFlow+Project+Dashboard" alt="TaskFlow Preview" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
-  
-  <br><br>
-  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-45B7D1?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  
-  <br><br>
-  
-  **🎯 Overview:** A modern project management tool with real-time collaboration, task tracking, and team productivity analytics.
-  
-  **✨ Key Features:**
-  - 📋 Kanban board interface
-  - ⏰ Real-time collaboration
-  - 📊 Progress analytics
-  - 👥 Team management
-  - 🔔 Smart notifications
+
   
   **🛠️ Tech Stack:**
   <br>
@@ -190,44 +168,6 @@ const paramShukla = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
 </div>
-
----
-
-### 📚 CodeLearning - Educational Platform
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/00c9ff/ffffff?text=CodeLearning+Platform" alt="CodeLearning Preview" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
-  
-  <br><br>
-  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF9500?style=for-the-badge&logoColor=white" alt="Live Demo"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  
-  <br><br>
-  
-  **🎯 Overview:** An interactive coding education platform with hands-on tutorials, code challenges, and progress tracking.
-  
-  **✨ Key Features:**
-  - 💻 Interactive code editor
-  - 🎯 Coding challenges
-  - 📈 Progress tracking
-  - 🏆 Achievement system
-  - 👨‍🏫 Tutorial modules
-  
-  **🛠️ Tech Stack:**
-  <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-</div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Analytics
 
@@ -247,35 +187,7 @@ const paramShukla = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px"> Current Learning Journey
 
-<div align="center">
-  
-  ```mermaid
-  graph TD
-      A[🎯 2024 Goals] --> B[Master System Design]
-      A --> C[Advanced Spring Boot]
-      A --> D[ElectronJS Development]
-      A --> E[Open Source Contributions]
-      A --> F[Competitive Programming]
-      
-      B --> G[Microservices Architecture]
-      B --> H[Database Optimization]
-      C --> I[Spring Security]
-      C --> J[Spring Data JPA]
-      D --> K[Desktop Applications]
-      E --> L[100+ GitHub Contributions]
-      F --> M[LeetCode Daily Challenge]
-      
-      style A fill:#ff6b6b
-      style B fill:#4ecdc4
-      style C fill:#45b7d1
-      style D fill:#f093fb
-      style E fill:#f39c12
-      style F fill:#e74c3c
-  ```
-  
-</div>
 
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Contribution Snake
 
