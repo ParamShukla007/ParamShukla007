@@ -1,116 +1,283 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Param+Shukla;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+%26+Building!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Param%20Shukla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/main/assets/coding.gif" alt="Coding" width="400" height="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A0;Spring+Boot+%7C+React.js+%7C+MongoDB;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I speak fluent JavaScript, JSON, and merge conflicts
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="320"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParamShukla007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParamShukla007&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ParamShukla007?label=Followers&style=social" alt="GitHub followers" />
-</p>
+  <img src="https://img.shields.io/github/stars/ParamShukla007?label=Stars&style=social" alt="GitHub stars" />
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2617-4274-9d20-c2d4e5266be9.gif">
 
 ```javascript
-const param = {
-    pronouns: "He/Him",
-    education: "Pre-final year Engineering Student",
-    currentFocus: "DSA & Web Development",
-    languages: ["JavaScript", "Java", "Python"],
-    askMeAbout: ["Web Dev", "DSA", "Real-time Apps", "ElectronJS"],
-    technologies: {
-        frontend: ["React", "HTML5", "CSS3", "JavaScript"],
-        backend: ["Node.js", "Express"],
-        database: ["MongoDB", "MySQL"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    currentlyExploring: "ElectronJS for Desktop Apps",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+const paramShukla = {
+    name: "Param Shukla",
+    role: "Full Stack Developer",
+    education: "Pre-final Year Engineering Student",
+    location: "India 🇮🇳",
+    
+    currentlyLearning: [
+        "Advanced Spring Boot",
+        "System Design",
+        "ElectronJS",
+        "Microservices Architecture"
+    ],
+    
+    passions: [
+        "Problem Solving with DSA",
+        "Building Scalable Web Applications",
+        "Real-time Applications",
+        "Open Source Contributions"
+    ],
+    
+    languages: ["Java", "JavaScript", "Python", "C", "SQL"],
+    
+    funFacts: [
+        "I can debug code faster than I can explain it 🐛",
+        "Coffee is my runtime dependency ☕",
+        "I believe in clean code and clean commits 🎯"
+    ],
+    
+    quote: "Code is poetry written in logic"
 };
 ```
 
-<br>
+<br><br>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px"> Tech Arsenal
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
-  
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,electron" />
-  
-  <h3>Databases & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
-</div>
 
----
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💰 MoneyOverflow</h3>
-        <div align="center">  
-          <a href="https://moneyoverflow.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website Badge"/></a>
-          <br><br>
-          <p><strong>Financial Literacy App</strong> - Empowering users with financial knowledge and tools for better money management.</p>
-          <br>
-          <p>🔧 <strong>Built with:</strong> React, Node.js, MongoDB</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏠 NurtureNest</h3>
-        <div align="center">
-          <a href="https://nfc-3-0-hack-panthers.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-9cf?style=for-the-badge&logo=medium&logoColor=white" alt="Website Badge"/></a>
-          <br><br>
-          <p><strong>NGO Management App</strong> - Streamlining operations for non-profit organizations to maximize their impact.</p>
-          <br>
-          <p>🔧 <strong>Built with:</strong> React, Express, MongoDB</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-  
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> Featured Projects
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParamShukla007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamShukla007&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
+### 💰 MoneyOverflow - Financial Literacy Platform
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ParamShukla007&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParamShukla007&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://via.placeholder.com/600x300/667eea/ffffff?text=MoneyOverflow+Dashboard" alt="MoneyOverflow Preview" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+  
+  <br><br>
+  
+  <a href="https://moneyoverflow.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/ParamShukla007/MoneyOverflow" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  
+  <br><br>
+  
+  **🎯 Overview:** A comprehensive financial literacy platform empowering users with tools for budget management, investment tracking, and financial education.
+  
+  **✨ Key Features:**
+  - 📊 Interactive budget dashboard
+  - 📈 Investment portfolio tracker  
+  - 🎓 Financial education modules
+  - 💳 Expense categorization
+  - 🔔 Smart notifications
+  
+  **🛠️ Tech Stack:**
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contribution Activity
+### 🏠 NurtureNest - NGO Management System
+<div align="center">
+  <img src="https://via.placeholder.com/600x300/f093fb/ffffff?text=NurtureNest+Management+Portal" alt="NurtureNest Preview" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+  
+  <br><br>
+  
+  <a href="https://nfc-3-0-hack-panthers.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/ParamShukla007/NurtureNest" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  
+  <br><br>
+  
+  **🎯 Overview:** A comprehensive NGO management platform streamlining operations, volunteer coordination, and donation tracking for maximum social impact.
+  
+  **✨ Key Features:**
+  - 👥 Volunteer management system
+  - 💰 Donation tracking & analytics
+  - 📋 Project management dashboard
+  - 📊 Impact measurement tools
+  - 🔐 Multi-role authentication
+  
+  **🛠️ Tech Stack:**
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+---
+
+### 🔧 TaskFlow - Project Management Tool
+<div align="center">
+  <img src="https://via.placeholder.com/600x300/4facfe/ffffff?text=TaskFlow+Project+Dashboard" alt="TaskFlow Preview" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+  
+  <br><br>
+  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-45B7D1?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  
+  <br><br>
+  
+  **🎯 Overview:** A modern project management tool with real-time collaboration, task tracking, and team productivity analytics.
+  
+  **✨ Key Features:**
+  - 📋 Kanban board interface
+  - ⏰ Real-time collaboration
+  - 📊 Progress analytics
+  - 👥 Team management
+  - 🔔 Smart notifications
+  
+  **🛠️ Tech Stack:**
+  <br>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+</div>
+
+---
+
+### 📚 CodeLearning - Educational Platform
+<div align="center">
+  <img src="https://via.placeholder.com/600x300/00c9ff/ffffff?text=CodeLearning+Platform" alt="CodeLearning Preview" width="600" height="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+  
+  <br><br>
+  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF9500?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  
+  <br><br>
+  
+  **🎯 Overview:** An interactive coding education platform with hands-on tutorials, code challenges, and progress tracking.
+  
+  **✨ Key Features:**
+  - 💻 Interactive code editor
+  - 🎯 Coding challenges
+  - 📈 Progress tracking
+  - 🏆 Achievement system
+  - 👨‍🏫 Tutorial modules
+  
+  **🛠️ Tech Stack:**
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Analytics
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ParamShukla007&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamShukla007&layout=compact&theme=react&border_radius=10&langs_count=6&hide_border=true&exclude_repo=comp426,Redventures-Movie-Quotes" alt="readme stats" />
+  <br/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ParamShukla007&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=ParamShukla007&theme=react&border_radius=10" alt="wakatime stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParamShukla007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px"> Current Learning Journey
+
+<div align="center">
+  
+  ```mermaid
+  graph TD
+      A[🎯 2024 Goals] --> B[Master System Design]
+      A --> C[Advanced Spring Boot]
+      A --> D[ElectronJS Development]
+      A --> E[Open Source Contributions]
+      A --> F[Competitive Programming]
+      
+      B --> G[Microservices Architecture]
+      B --> H[Database Optimization]
+      C --> I[Spring Security]
+      C --> J[Spring Data JPA]
+      D --> K[Desktop Applications]
+      E --> L[100+ GitHub Contributions]
+      F --> M[LeetCode Daily Challenge]
+      
+      style A fill:#ff6b6b
+      style B fill:#4ecdc4
+      style C fill:#45b7d1
+      style D fill:#f093fb
+      style E fill:#f39c12
+      style F fill:#e74c3c
+  ```
+  
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Contribution Snake
 
 <div align="center">
   <img src="https://github.com/ParamShukla007/ParamShukla007/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -118,32 +285,11 @@ const param = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Current Learning & Goals
-
-<div align="center">
-  
-  ```mermaid
-  graph TD
-      A[🎯 Current Goals] --> B[Master DSA]
-      A --> C[Build Real-time Apps]
-      A --> D[Explore ElectronJS]
-      A --> E[Open Source Contributions]
-      
-      B --> F[LeetCode Daily]
-      C --> G[WebSocket Projects]
-      D --> H[Desktop Applications]
-      E --> I[GitHub Contributions]
-  ```
-  
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> Let's Connect & Collaborate!
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -154,18 +300,30 @@ const param = {
   <a href="https://github.com/ParamShukla007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://leetcode.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+  <br><br>
+  
+  **"The only way to do great work is to love what you do."** – Steve Jobs
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote"/>
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
 ---
 
 <div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
+  <img src="https://komarev.com/ghpvc/?username=ParamShukla007&style=for-the-badge&color=blue" alt="Profile views"/>
+  <br><br>
+  <p>⭐ Don't forget to star my repositories if you find them interesting!</p>
 </div>
