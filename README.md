@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milan Haria</h1>
+<h1 align="center">Hi 👋, I'm Param Shukla</h1>
 <h3 align="center">I speak fluent JavaScript, JSON, and merge conflicts.</h3>
 
 <p align="center"> 
@@ -26,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-... *(Add more as needed)*
+<!-- Add more as needed -->
 
 ---
 
@@ -40,20 +40,20 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanh34&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milanh34&layout=compact&theme=tokyonight)
+![Param's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParamShukla007&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParamShukla007&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=milanh34&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ParamShukla007&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/milanh34/milanh34/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ParamShukla007/ParamShukla007/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -64,4 +64,3 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
-
