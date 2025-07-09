@@ -354,8 +354,6 @@ Deployment: {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParamShukla007&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <br><br>
   <p>
     ⭐ <strong>If you find my work interesting, please consider starring my repositories!</strong><br>
     🚀 <strong>Let's build something amazing together!</strong>
