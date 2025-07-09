@@ -32,9 +32,9 @@
 
 ### 🚀 Featured Projects
 
-| [LinkUp](https://yourprojectlink.com) | [SocialSync](https://yourprojectlink.com) |
+| [MoneyOverflow]([https://yourprojectlink.com](https://moneyoverflow.vercel.app/)) | [NurtureNest]([https://yourprojectlink.com](https://nfc-3-0-hack-panthers.vercel.app/)) |
 | --- | --- |
-| Real-time chat app using MERN stack | Sync streaming videos with friends |
+| Financial Literacy app | NGO Managemnt app |
 
 ---
 
