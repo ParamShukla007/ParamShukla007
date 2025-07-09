@@ -7,13 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" height="300"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParamShukla007&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ParamShukla007?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ParamShukla007?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="300"/>
 </div>
 
 <br>
@@ -128,7 +122,7 @@ const paramShukla: Developer = {
 *May 2025 – June 2025* | **Team Project** 👥
 
 <div align="center">
-  <img src="https://via.placeholder.com/700x350/667eea/ffffff?text=MoneyOverflow+Financial+Dashboard" alt="MoneyOverflow Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #667eea;"/>
+  <img src="https://via.placeholder.com/700x350/667eea/ffffff?text=MoneyOverflow+Financial+Platform" alt="MoneyOverflow Preview" width="700" height="350" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); border: 2px solid #667eea;"/>
   
   <br><br>
   
@@ -166,10 +160,8 @@ A comprehensive financial literacy platform designed to empower users with essen
 - **AI-Powered** personalized Assistance
 
 **👥 Team Contributors**
-- **[Monil Mehta](https://github.com/MonilMehta)** - Team Lead & Frontend Developer
-- **[Param Shukla](https://github.com/ParamShukla007)** - Full Stack Developer & Backend Lead
-- **[Contributor 3](https://github.com/username3)** - UI/UX Designer & Frontend
-- **[Contributor 4](https://github.com/username4)** - Database & API Integration
+- **[Monil Mehta](https://github.com/MonilMehta)**
+- **[Param Shukla](https://github.com/ParamShukla007)**
 
 </td>
 <td width="40%">
@@ -260,10 +252,8 @@ A comprehensive NGO management platform that streamlines operations, enhances vo
 - **PDF** Report Generation
 
 **👥 Team Contributors**
-- **[Monil Mehta](https://github.com/MonilMehta)** - Team Lead & Frontend Architect
-- **[Param Shukla](https://github.com/ParamShukla007)** - Backend Developer & Database Lead
-- **[Contributor 2](https://github.com/username2)** - Frontend Developer & UI/UX
-- **[Contributor 3](https://github.com/username3)** - Payment Integration & API Development
+- **[Monil Mehta](https://github.com/MonilMehta)**
+- **[Param Shukla](https://github.com/ParamShukla007)**
   
 </td>
 <td width="40%">
@@ -374,7 +364,7 @@ Deployment: {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" height="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" height="200">
   <br>
   
   <h3>💭 Developer Quote</h3>
