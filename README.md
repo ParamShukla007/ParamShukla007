@@ -1,66 +1,171 @@
-<h1 align="center">Hi 👋, I'm Param Shukla</h1>
-<h3 align="center">I speak fluent JavaScript, JSON, and merge conflicts.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Param+Shukla;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+%26+Building!" alt="Typing SVG" />
+</div>
 
-<p align="center"> 
-  <b>Always Learning & Building New Things</b>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ParamShukla007/ParamShukla007/main/assets/coding.gif" alt="Coding" width="400" height="300"/>
+</div>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I speak fluent JavaScript, JSON, and merge conflicts
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParamShukla007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ParamShukla007?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-### ✨ About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 🎓 Pre-final year engineering student  
-- 💻 DSA enthusiast, love coding in Java  
-- 💡 Passionate about Web Development & Real-time Apps  
-- 🧠 Exploring ElectronJS to build powerful desktop software  
-- 🤝 Love collaborating and contributing to meaningful projects  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
----
+```javascript
+const param = {
+    pronouns: "He/Him",
+    education: "Pre-final year Engineering Student",
+    currentFocus: "DSA & Web Development",
+    languages: ["JavaScript", "Java", "Python"],
+    askMeAbout: ["Web Dev", "DSA", "Real-time Apps", "ElectronJS"],
+    technologies: {
+        frontend: ["React", "HTML5", "CSS3", "JavaScript"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "MySQL"],
+        tools: ["Git", "VS Code", "Postman"]
+    },
+    currentlyExploring: "ElectronJS for Desktop Apps",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-### 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<!-- Add more as needed -->
-
----
-
-### 🚀 Featured Projects
-
-| [MoneyOverflow]([https://yourprojectlink.com](https://moneyoverflow.vercel.app/)) | [NurtureNest]([https://yourprojectlink.com](https://nfc-3-0-hack-panthers.vercel.app/)) |
-| --- | --- |
-| Financial Literacy app | NGO Managemnt app |
+<br>
 
 ---
 
-### 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
-![Param's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParamShukla007&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParamShukla007&layout=compact&theme=tokyonight)
-
----
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ParamShukla007&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/ParamShukla007/ParamShukla007/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
+  
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,electron" />
+  
+  <h3>Databases & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+</div>
 
 ---
 
-### 📫 Connect with Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
+<div align="center">
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💰 MoneyOverflow</h3>
+        <div align="center">  
+          <a href="https://moneyoverflow.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website Badge"/></a>
+          <br><br>
+          <p><strong>Financial Literacy App</strong> - Empowering users with financial knowledge and tools for better money management.</p>
+          <br>
+          <p>🔧 <strong>Built with:</strong> React, Node.js, MongoDB</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏠 NurtureNest</h3>
+        <div align="center">
+          <a href="https://nfc-3-0-hack-panthers.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-9cf?style=for-the-badge&logo=medium&logoColor=white" alt="Website Badge"/></a>
+          <br><br>
+          <p><strong>NGO Management App</strong> - Streamlining operations for non-profit organizations to maximize their impact.</p>
+          <br>
+          <p>🔧 <strong>Built with:</strong> React, Express, MongoDB</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParamShukla007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamShukla007&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ParamShukla007&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParamShukla007&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contribution Activity
+
+<div align="center">
+  <img src="https://github.com/ParamShukla007/ParamShukla007/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Current Learning & Goals
+
+<div align="center">
+  
+  ```mermaid
+  graph TD
+      A[🎯 Current Goals] --> B[Master DSA]
+      A --> C[Build Real-time Apps]
+      A --> D[Explore ElectronJS]
+      A --> E[Open Source Contributions]
+      
+      B --> F[LeetCode Daily]
+      C --> G[WebSocket Projects]
+      D --> H[Desktop Applications]
+      E --> I[GitHub Contributions]
+  ```
+  
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/ParamShukla007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+</div>
+
+---
+
+<div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+</div>
