@@ -135,7 +135,7 @@ const paramShukla: Developer = {
   <a href="https://moneyoverflow.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/ParamShukla007/MoneyOverflow" target="_blank">
+  <a href="https://github.com/MonilMehta/MoneyOverflow" target="_blank">
     <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
   
@@ -152,18 +152,18 @@ A comprehensive financial literacy platform designed to empower users with essen
 **✨ Key Features**
 - 📚 **10+ Interactive Learning Modules** - Comprehensive financial education
 - 📰 **Financial Blogs & News Updates** - Stay informed on market trends
-- 🧮 **5+ Financial Calculators** - EMI, SIP, Tax, and Investment calculators
+- 🧮 **5+ Financial Calculators** - EMI, SIP, and Investment calculators
 - 💬 **Community Q&A System** - Peer-to-peer financial discussions
 - 🎮 **Gamified Quizzes** - Engaging learning through gamification
 - 📈 **Investment Simulations** - Risk-free practice trading
 - 🤖 **AI-Powered Assistance** - Gemini API for personalized financial guidance
 - 📱 **Mobile-Optimized Design** - Seamless experience across devices
 
-**🏆 Achievements**
-- **10+** Interactive modules developed
-- **5+** Financial calculators implemented
-- **Mobile-first** responsive design
-- **AI-powered** personalized assistance
+**📈 Performance Metrics**
+- **100%** Mobile Responsive
+- **10+** Learning Modules
+- **5+** Financial Tools
+- **AI-Powered** personalized Assistance
 
 </td>
 <td width="40%">
@@ -172,7 +172,7 @@ A comprehensive financial literacy platform designed to empower users with essen
 ```javascript
 Frontend: {
   framework: "React.js",
-  styling: "CSS3 + Responsive Design",
+  styling: "Tailwind CSS + Responsive Design",
   stateManagement: "React Hooks",
   calculations: "JavaScript"
 }
@@ -191,16 +191,11 @@ AI Integration: {
 }
 
 Deployment: {
-  platform: "Vercel",
+  frontend: "Vercel",
+  backend:  "Render",
   database: "MongoDB Atlas"
 }
 ```
-
-**📈 Performance Metrics**
-- **100%** Mobile Responsive
-- **10+** Learning Modules
-- **5+** Financial Tools
-- **AI-Powered** Assistance
 
 </td>
 </tr>
@@ -219,7 +214,7 @@ Deployment: {
   <a href="https://nfc-3-0-hack-panthers.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-4ECDC4?style=for-the-badge&logoColor=white" alt="Live Demo"/>
   </a>
-  <a href="https://github.com/ParamShukla007/NurtureNest" target="_blank">
+  <a href="https://github.com/MonilMehta/NFC3.0_HackPanthers" target="_blank">
     <img src="https://img.shields.io/badge/📁_Source_Code-333333?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
   
@@ -243,12 +238,13 @@ A comprehensive NGO management platform that streamlines operations, enhances vo
 - 📱 **SMS Notification System** - Twilio API for automated registration confirmations
 - 📢 **Announcement System** - Keep users informed with important updates
 
-**🏆 Recognition**
-- **Team Project** with successful deployment
-- **Mobile-responsive** design implementation
-- **Secure payment** processing integration
-- **Real-time notifications** for better engagement
-
+**📊 Impact Metrics**
+- **Complete** Admin Portal
+- **Secure** Payment integration
+- **Real-time** Notifications
+- **Mobile-First** Design
+- **PDF** Report Generation
+  
 </td>
 <td width="40%">
 
@@ -272,21 +268,15 @@ Integrations: {
   payments: "Razorpay API",
   sms: "Twilio API",
   reports: "PDF Generation",
-  notifications: "Real-time Updates"
+  notifications: "Registration"
 }
 
 Deployment: {
-  platform: "Vercel",
+  frontend: "Vercel",
+  backend:  "Render",
   database: "MongoDB Atlas"
 }
 ```
-
-**📊 Impact Metrics**
-- **Complete** Admin Portal
-- **Secure** Payment Processing
-- **Real-time** SMS Notifications
-- **Mobile-First** Design
-- **PDF** Report Generation
 
 </td>
 </tr>
@@ -310,55 +300,6 @@ Deployment: {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParamShukla007&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=📈%20Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph">
 </div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px"> Learning & Development Roadmap
-
-<div align="center">
-
-### 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td width="50%">
-
-**📚 Technical Skills**
-- System Design & Architecture
-- Advanced Spring Boot Concepts
-- Microservices Patterns
-- Database Optimization
-- Cloud Technologies (AWS)
-
-**🏆 Goals for 2025**
-- Master System Design
-- Contribute to Open Source
-- Build Production Applications
-- Achieve 1000+ LeetCode Problems
-
-</td>
-<td width="50%">
-
-**🚀 Learning Path**
-- Docker & Containerization
-- Kubernetes Orchestration
-- CI/CD Pipeline Implementation
-- Performance Optimization
-- Security Best Practices
-
-**💡 Innovation Areas**
-- AI/ML Integration
-- Real-time Applications
-- Scalable Architecture
-- Modern Development Practices
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> Contribution Activity
 
