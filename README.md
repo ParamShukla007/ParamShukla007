@@ -36,13 +36,12 @@ interface Developer {
   location: string;
   experience: string[];
   interests: string[];
-  currentGoals: string[];
 }
 
 const paramShukla: Developer = {
   name: "Param Shukla",
   role: "Full Stack Developer",
-  education: "Pre-final Year Engineering Student",
+  education: "Final Year Engineering Student",
   location: "India 🇮🇳",
   
   experience: [
@@ -54,17 +53,10 @@ const paramShukla: Developer = {
   
   interests: [
     "Problem Solving with DSA",
-    "System Design & Architecture",
-    "Real-time Applications",
-    "Open Source Contributions"
+    "Building production-level applications",
+    "Learning different skills"
   ],
   
-  currentGoals: [
-    "Master Microservices Architecture",
-    "Contribute to Open Source Projects",
-    "Build Production-Ready Applications",
-    "Achieve 1000+ LeetCode Problems"
-  ]
 };
 ```
 
